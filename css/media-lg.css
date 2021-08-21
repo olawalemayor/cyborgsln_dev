@@ -1,0 +1,81 @@
+    /** For Tablex screens */
+    
+    @media (min-width:768px) {
+        #mobile-nav-icon {
+            display: none;
+        }
+        main {
+            padding-left: 1rem;
+        }
+        #hlogin {
+            display: contents;
+        }
+        .topnav {
+            display: block;
+            margin-top: 1rem;
+            max-width: 1024px;
+        }
+        .topnav li {
+            display: inline;
+            padding: 0 1rem 0 1rem;
+        }
+        .topnav a {
+            display: inline;
+            padding: .8rem 2rem .8rem 2rem;
+        }
+        .sidebar {
+            display: block;
+        }
+        .sidebar-text-alt {
+            display: none;
+        }
+        /** Column grids*/
+        .col-lg-1 {
+            float: left;
+            width: 8.33%;
+        }
+        .col-lg-2 {
+            float: left;
+            width: 16.67%;
+        }
+        .col-lg-3 {
+            float: left;
+            width: 25%;
+        }
+        .col-lg-4 {
+            float: left;
+            width: 33.33%;
+        }
+        .col-lg-5 {
+            float: left;
+            width: 41.67%;
+        }
+        .col-lg-6 {
+            float: left;
+            width: 50%;
+        }
+        .col-lg-7 {
+            float: left;
+            width: 58.33%;
+        }
+        .col-lg-8 {
+            float: left;
+            width: 66.67%;
+        }
+        .col-lg-9 {
+            float: left;
+            width: 75%;
+        }
+        .col-lg-10 {
+            float: left;
+            width: 83.33%;
+        }
+        .col-lg-11 {
+            float: left;
+            width: 91.67%;
+        }
+        .col-lg-12 {
+            float: left;
+            width: 100%;
+        }
+    }
